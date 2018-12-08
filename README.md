@@ -2,12 +2,12 @@
 A special web server for the earthquake detector competition,Communicate with arduino
 # How to use it?
 Update the information of the database
-'''
+```
 $servername = "xxxxxx";
 $username = "xxxx";
 $password = "xxx";
 $dbname = "xxxxxxxx";
-'''
+```
 servername is the address of the database
 username is the login username of the database
 password is the login password of the database
