@@ -22,5 +22,5 @@ dbname is the database name of the database servername
 - Table Display
 - Graph display
 
-# ATTENTION
+# Attention
 outdated Library is used. Please becare when using it.
